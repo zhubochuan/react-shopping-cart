@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "_id":"shirt1",
+            "title":"MEN Supima Cotton Crew Neck Short Sleeve T-Shirt",
+            "description":"- Made with 100% Supima® cotton, featuring long fibers and an elegant sheen.",
+            "images":"/images/shirt1.jpg",
+            "price":14.9,
+            "availableSizes":["XS","S","M","L","XL","XXL"]
+        },
+        {
+            "_id":"shirt2",
+            "title":"MEN Supima Cotton Crew Neck Short Sleeve T-Shirt",
+            "description":"- 100% Supima® cotton material made with a special spinning method that gives it a high-quality texture with minimal scuffing.",
+            "images":"/images/shirt2.jpg",
+            "price":14.9,
+            "availableSizes":["XS","S","M","L","XL","XXL"]
+        },
+        {
+            "_id":"shirt3",
+            "title":"MEN Supima Cotton V Neck Short Sleeve T-Shirt",
+            "description":"- 100% Supima® cotton material made with a special spinning method that gives it a high-quality texture with minimal scuffing.",
+            "images":"/images/shirt3.jpg",
+            "price":14.9,
+            "availableSizes":["XL","XXL"]
+        },
+        {
+            "_id":"shirt4",
+            "title":"MEN Dry-EX Crew Neck Short Sleeve T-Shirt",
+            "description":"- DRY EX function added.",
+            "images":"/images/shirt4.jpg",
+            "price":19.90,
+            "availableSizes":["XXS","XS","S","M","L","XL","XXL"]
+        },
+        {
+            "_id":"shirt5",
+            "title":"MEN Brushed Cotton Crew Neck Half Sleeve T-Shirt",
+            "description":"- Featuring an elegant glossy sheen and lovely feel.",
+            "images":"/images/shirt5.jpg",
+            "price":19.90,
+            "availableSizes":["XS","S","M","L","XL","XXL"]
+        },
+        {
+            "_id":"shirt6",
+            "title":"MEN Striped Short Sleeve T-Shirt",
+            "description":"- A 100% cotton jersey with crisp, open-ended yarn.",
+            "images":"/images/shirt6.jpg",
+            "price":14.9,
+            "availableSizes":["XS","XS"]
+        }
+    ]
+}
